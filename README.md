@@ -2,6 +2,9 @@
 
 *The Dumbest Thing I've Ever Done*
 
+Use a private Twitter account for your database. I mean don't. But this will let you
+do it. Kind of!
+
 ## Usage (don't)
 
 This doesn't even really work. Look at the source for a thing that kind of works. Also
